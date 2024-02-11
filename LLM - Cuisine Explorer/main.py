@@ -3,7 +3,6 @@ import langchain_helper
 
 # Set page configuration
 st.set_page_config(page_title="Cuisine Explorer", layout="wide")
-
 st.title("🍽️ Cuisine Explorer")
 
 # Sidebar for user inputs

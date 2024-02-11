@@ -1,1 +1,1 @@
-openapi_key = your api key
+openapi_key = your-api-key

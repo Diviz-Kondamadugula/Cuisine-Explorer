@@ -2,6 +2,12 @@
 
 Cuisine Explorer is a Streamlit application that leverages OpenAI's GPT models via the LangChain library to generate unique restaurant names and corresponding menu items based on user-selected cuisines.
 
+![image](https://github.com/Diviz-Kondamadugula/Cuisine-Explorer/assets/57787636/fb94d653-a63e-467c-999e-68fa7c9c49a7)
+![image](https://github.com/Diviz-Kondamadugula/Cuisine-Explorer/assets/57787636/3b6c6347-6e60-4b4d-9426-cbde8787f54b)
+![image](https://github.com/Diviz-Kondamadugula/Cuisine-Explorer/assets/57787636/55312310-add5-4730-ae81-c2616f568e1a)
+
+
+
 ## Features
 
 - **Cuisine Selection**: Users can choose from a variety of cuisines, including Indian, Italian, Mexican, and more, to explore potential restaurant concepts.

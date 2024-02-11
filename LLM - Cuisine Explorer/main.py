@@ -32,7 +32,6 @@ with col1:
     st.subheader("✨ Restaurant Name")
     if restaurant_info['restaurant_name']:  # Check if there's a restaurant name to display
         st.markdown(f"### {restaurant_info['restaurant_name']}")
-
 with col2:
     st.subheader("📜 Menu Items")
     if restaurant_info['menu_items']:
@@ -41,7 +40,7 @@ with col2:
         # Display each menu item
         for item in menu_items:
             st.markdown(f"- {item}")
-
+            
 # Information message for user guidance
 if cuisine == "Select a Cuisine":
     st.info("Please select a cuisine to get started.")
